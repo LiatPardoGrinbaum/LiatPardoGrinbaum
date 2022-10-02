@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋  
+I am Liat, a Full stack developer.  
+My technology stack: JavaScript, HTML, CSS ,SASS, ReactJs, Node.js, Express, MongoDB, Mongoose, MySQL, Strapi.   
+I am currently looking for my first position. 
+I love to code, I love people and I really love to learn new things.  
+You can reach me on [Linkedin](https://www.linkedin.com/in/liat-pardo-grinbaum-43932b146/) and by mail: pardo.liat@gmail.com 
+
+🌸🌸🌸
+
+
 
 <!--
 **LiatPardoGrinbaum/LiatPardoGrinbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
