@@ -1,7 +1,8 @@
 ### Hello there 👋  
 I am Liat, a Full stack developer.  
 My technology stack: JavaScript, HTML, CSS ,SASS, ReactJs, Node.js, Express, MongoDB, Mongoose, MySQL, Strapi.   
-I love to code, I love people and I really love to learn new things and I am currently looking for my first position as a full stack \ frontend developer.  
+I love to code, I love working with people andI love to learn new things. 
+and I am currently looking for my first position as a full stack \ frontend developer.  
  
 You can reach me on [Linkedin](https://www.linkedin.com/in/liat-pardo-grinbaum-43932b146/) and by mail: pardo.liat@gmail.com 
 
