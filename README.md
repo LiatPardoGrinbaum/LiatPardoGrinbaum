@@ -1,6 +1,6 @@
 ### Hello there 👋  
 I am Liat, a Full Stack developer.  
-My technology stack: **JavaScript, HTML, CSS ,SASS, ReactJs, Node.js, Express, MongoDB, Mongoose, MySQL, Strapi, Python (basic)**.   
+My technology stack: **JavaScript, HTML, CSS ,SASS, ReactJs, Node.js, Express, MongoDB, Mongoose, MySQL, Strapi**.   
 I love to code, I love working with people and I love to learn new things.  
 I am currently looking for my first position as a full stack \ frontend developer.  
  
